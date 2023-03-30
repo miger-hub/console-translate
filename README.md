@@ -1,2 +1,3 @@
 # console-translate
-console translate tool
+A console translation tool developed with golang
+
